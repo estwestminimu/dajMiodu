@@ -130,7 +130,7 @@ Frontend: **http://localhost:5173**
 
 
 ## Schemat bazy danych
-
+<img width="787" height="523" alt="Image" src="https://github.com/user-attachments/assets/645949a9-b040-4162-b068-139b3ec06147" />
 
 
 ##  Widoki / strony
